@@ -8,8 +8,8 @@
 
  https://github.com/CubingChina/cubingchina 
 
-1. 获取粗饼赛事列表
-2. 获取赛事详情
+1. 获取粗饼赛事列表` https://cubingchina.com/api/v0/competition `
+2. 获取赛事详情` https://cubingchina.com/api/v0/competition/{alias} `
 3. 获取参赛选手 `https://cubingchina.com/api/v0/competition/{alias}/competitors `
 4. 获取赛程` https://cubingchina.com/api/v0/competition/{alias}/schedule `
 
